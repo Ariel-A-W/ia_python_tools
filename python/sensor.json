@@ -1,0 +1,6002 @@
+[
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 852,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 863,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 869,
+        "Vibracion": 1.3,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.4,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 857,
+        "Vibracion": 1.3,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 59,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.4,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.4,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 850,
+        "Vibracion": 1.3,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.4,
+        "Humedad": 58,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 851,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.3,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 855,
+        "Vibracion": 1.3,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 853,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 868,
+        "Vibracion": 1.3,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 862,
+        "Vibracion": 1.2,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 858,
+        "Vibracion": 1.4,
+        "Humedad": 54,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 866,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 865,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 867,
+        "Vibracion": 1.4,
+        "Humedad": 53,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 854,
+        "Vibracion": 1.2,
+        "Humedad": 52,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 864,
+        "Vibracion": 1.4,
+        "Humedad": 51,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 860,
+        "Vibracion": 1.3,
+        "Humedad": 50,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 861,
+        "Vibracion": 1.2,
+        "Humedad": 55,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 856,
+        "Vibracion": 1.4,
+        "Humedad": 56,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 859,
+        "Vibracion": 1.2,
+        "Humedad": 57,
+        "IsFaulty": true
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 796,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 814,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 790,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 806,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 804,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 809,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 799,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 818,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 795,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 810,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 812,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 813,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.5,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 805,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 811,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 808,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 797,
+        "Vibracion": 0.7,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 793,
+        "Vibracion": 0.6,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 791,
+        "Vibracion": 0.5,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 817,
+        "Vibracion": 0.5,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.7,
+        "Humedad": 43,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 815,
+        "Vibracion": 0.7,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 802,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 803,
+        "Vibracion": 0.6,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 792,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 819,
+        "Vibracion": 0.6,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 816,
+        "Vibracion": 0.6,
+        "Humedad": 42,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 798,
+        "Vibracion": 0.7,
+        "Humedad": 44,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 800,
+        "Vibracion": 0.6,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 807,
+        "Vibracion": 0.5,
+        "Humedad": 41,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 794,
+        "Vibracion": 0.7,
+        "Humedad": 40,
+        "IsFaulty": false
+    },
+    {
+        "Temperatura": 801,
+        "Vibracion": 0.5,
+        "Humedad": 42,
+        "IsFaulty": false
+    }
+]

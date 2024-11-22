@@ -1,0 +1,5002 @@
+[
+    {
+        "Monto": 9045.02,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 9.48
+    },
+    {
+        "Monto": 5955.36,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 6.49
+    },
+    {
+        "Monto": 3828.21,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 16.3
+    },
+    {
+        "Monto": 4532.94,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 13.4
+    },
+    {
+        "Monto": 1123.27,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 0.81
+    },
+    {
+        "Monto": 6212.11,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 11.21
+    },
+    {
+        "Monto": 6572.98,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 16.81
+    },
+    {
+        "Monto": 5940.15,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 12.89
+    },
+    {
+        "Monto": 3174.69,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 21.39
+    },
+    {
+        "Monto": 8832.04,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 20.34
+    },
+    {
+        "Monto": 7480.87,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 7.8
+    },
+    {
+        "Monto": 4360.57,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 12.61
+    },
+    {
+        "Monto": 1850.66,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 18.66
+    },
+    {
+        "Monto": 4799.67,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 12.11
+    },
+    {
+        "Monto": 6295.09,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 19.2
+    },
+    {
+        "Monto": 9123.02,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 6.02
+    },
+    {
+        "Monto": 1549.37,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 4.86
+    },
+    {
+        "Monto": 2514.92,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 11.79
+    },
+    {
+        "Monto": 3028.06,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 13.18
+    },
+    {
+        "Monto": 8231.96,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 8.41
+    },
+    {
+        "Monto": 8026.65,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 1.25
+    },
+    {
+        "Monto": 4346.3,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 14.53
+    },
+    {
+        "Monto": 389.15,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 20.74
+    },
+    {
+        "Monto": 4076.4,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 18.78
+    },
+    {
+        "Monto": 9054.67,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 13.52
+    },
+    {
+        "Monto": 9124.02,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 7.38
+    },
+    {
+        "Monto": 593.66,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 9.91
+    },
+    {
+        "Monto": 6242.43,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 6.98
+    },
+    {
+        "Monto": 856.99,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 12.99
+    },
+    {
+        "Monto": 9739.98,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 3.52
+    },
+    {
+        "Monto": 8465.62,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 19.21
+    },
+    {
+        "Monto": 4001.0,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 3.41
+    },
+    {
+        "Monto": 2005.48,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 17.29
+    },
+    {
+        "Monto": 7033.18,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 18.52
+    },
+    {
+        "Monto": 314.59,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 17.01
+    },
+    {
+        "Monto": 9074.03,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 15.08
+    },
+    {
+        "Monto": 140.37,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 11.75
+    },
+    {
+        "Monto": 8118.81,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 18.51
+    },
+    {
+        "Monto": 4639.65,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 13.63
+    },
+    {
+        "Monto": 2650.82,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 19.44
+    },
+    {
+        "Monto": 4647.72,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 23.34
+    },
+    {
+        "Monto": 3698.81,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 10.7
+    },
+    {
+        "Monto": 5022.21,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 16.47
+    },
+    {
+        "Monto": 9300.35,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 15.97
+    },
+    {
+        "Monto": 4849.5,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 15.34
+    },
+    {
+        "Monto": 8191.18,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 5.02
+    },
+    {
+        "Monto": 3226.16,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 5.43
+    },
+    {
+        "Monto": 1593.4,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 4.38
+    },
+    {
+        "Monto": 4510.1,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 8.47
+    },
+    {
+        "Monto": 2226.97,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 16.97
+    },
+    {
+        "Monto": 139.7,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 0.36
+    },
+    {
+        "Monto": 9236.42,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 13.48
+    },
+    {
+        "Monto": 9209.63,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 4.44
+    },
+    {
+        "Monto": 8500.55,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 6.52
+    },
+    {
+        "Monto": 7628.6,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 19.56
+    },
+    {
+        "Monto": 1828.38,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 19.64
+    },
+    {
+        "Monto": 9497.84,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 7.32
+    },
+    {
+        "Monto": 7584.52,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 8.42
+    },
+    {
+        "Monto": 8214.32,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 18.32
+    },
+    {
+        "Monto": 4562.17,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 8.16
+    },
+    {
+        "Monto": 1285.11,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 8.8
+    },
+    {
+        "Monto": 6686.44,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 12.13
+    },
+    {
+        "Monto": 8232.03,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 14.16
+    },
+    {
+        "Monto": 9266.61,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 4.95
+    },
+    {
+        "Monto": 2110.57,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 18.05
+    },
+    {
+        "Monto": 5549.08,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 12.9
+    },
+    {
+        "Monto": 6763.24,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 8.53
+    },
+    {
+        "Monto": 9831.8,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 8.53
+    },
+    {
+        "Monto": 3111.21,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 14.74
+    },
+    {
+        "Monto": 5194.85,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 23.31
+    },
+    {
+        "Monto": 781.12,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 7.52
+    },
+    {
+        "Monto": 3154.67,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 20.45
+    },
+    {
+        "Monto": 9734.55,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 6.64
+    },
+    {
+        "Monto": 3390.43,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 2.67
+    },
+    {
+        "Monto": 611.85,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 12.92
+    },
+    {
+        "Monto": 1841.28,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 8.29
+    },
+    {
+        "Monto": 5015.86,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 7.12
+    },
+    {
+        "Monto": 4232.38,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 0.75
+    },
+    {
+        "Monto": 6174.79,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 23.93
+    },
+    {
+        "Monto": 8918.19,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 15.24
+    },
+    {
+        "Monto": 1333.84,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 17.22
+    },
+    {
+        "Monto": 8862.97,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 18.58
+    },
+    {
+        "Monto": 5033.1,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 16.28
+    },
+    {
+        "Monto": 6145.0,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 4.38
+    },
+    {
+        "Monto": 5590.78,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 4.21
+    },
+    {
+        "Monto": 1351.12,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 2.4
+    },
+    {
+        "Monto": 5238.61,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 8.58
+    },
+    {
+        "Monto": 6223.65,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 5.35
+    },
+    {
+        "Monto": 5659.71,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 5.81
+    },
+    {
+        "Monto": 6326.79,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 13.66
+    },
+    {
+        "Monto": 9056.75,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 17.91
+    },
+    {
+        "Monto": 5308.65,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 10.46
+    },
+    {
+        "Monto": 9448.56,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 20.62
+    },
+    {
+        "Monto": 3651.52,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 4.34
+    },
+    {
+        "Monto": 368.43,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 4.43
+    },
+    {
+        "Monto": 8209.41,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 5.31
+    },
+    {
+        "Monto": 1627.33,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 9.03
+    },
+    {
+        "Monto": 4581.86,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 15.07
+    },
+    {
+        "Monto": 696.1,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 4.71
+    },
+    {
+        "Monto": 1805.89,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 14.97
+    },
+    {
+        "Monto": 7309.85,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 4.31
+    },
+    {
+        "Monto": 8323.7,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 16.3
+    },
+    {
+        "Monto": 6173.64,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 23.91
+    },
+    {
+        "Monto": 3821.89,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 20.2
+    },
+    {
+        "Monto": 9482.39,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 19.64
+    },
+    {
+        "Monto": 355.26,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 18.53
+    },
+    {
+        "Monto": 8102.37,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 2.08
+    },
+    {
+        "Monto": 2542.69,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 8.52
+    },
+    {
+        "Monto": 1282.89,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 23.86
+    },
+    {
+        "Monto": 2903.09,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 11.78
+    },
+    {
+        "Monto": 5418.11,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 5.89
+    },
+    {
+        "Monto": 3516.37,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 21.31
+    },
+    {
+        "Monto": 2713.1,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 10.49
+    },
+    {
+        "Monto": 9529.34,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 4.77
+    },
+    {
+        "Monto": 321.33,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 18.05
+    },
+    {
+        "Monto": 5700.83,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 11.34
+    },
+    {
+        "Monto": 2065.8,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 14.5
+    },
+    {
+        "Monto": 250.53,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 16.38
+    },
+    {
+        "Monto": 2406.03,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 7.79
+    },
+    {
+        "Monto": 221.22,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 8.45
+    },
+    {
+        "Monto": 4363.65,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 4.03
+    },
+    {
+        "Monto": 8091.89,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 12.48
+    },
+    {
+        "Monto": 5551.48,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 0.93
+    },
+    {
+        "Monto": 2278.69,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 9.0
+    },
+    {
+        "Monto": 2880.75,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 7.02
+    },
+    {
+        "Monto": 2196.28,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 18.21
+    },
+    {
+        "Monto": 9403.7,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 15.4
+    },
+    {
+        "Monto": 1777.51,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 21.71
+    },
+    {
+        "Monto": 5774.47,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 10.6
+    },
+    {
+        "Monto": 9239.59,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 10.62
+    },
+    {
+        "Monto": 607.79,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 18.54
+    },
+    {
+        "Monto": 4010.36,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 3.21
+    },
+    {
+        "Monto": 9791.97,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 20.65
+    },
+    {
+        "Monto": 2907.45,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 1.61
+    },
+    {
+        "Monto": 1661.13,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 16.57
+    },
+    {
+        "Monto": 1890.26,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 18.5
+    },
+    {
+        "Monto": 4597.55,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 23.01
+    },
+    {
+        "Monto": 2071.18,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 2.33
+    },
+    {
+        "Monto": 761.77,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 21.71
+    },
+    {
+        "Monto": 7054.18,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 8.38
+    },
+    {
+        "Monto": 2997.83,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 23.38
+    },
+    {
+        "Monto": 7803.09,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 15.02
+    },
+    {
+        "Monto": 1270.31,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 16.49
+    },
+    {
+        "Monto": 8460.62,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 12.49
+    },
+    {
+        "Monto": 5504.87,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 18.02
+    },
+    {
+        "Monto": 506.69,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 19.09
+    },
+    {
+        "Monto": 8310.93,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 2.99
+    },
+    {
+        "Monto": 5589.05,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 6.98
+    },
+    {
+        "Monto": 8390.06,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 1.92
+    },
+    {
+        "Monto": 6379.8,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 2.65
+    },
+    {
+        "Monto": 711.98,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 22.21
+    },
+    {
+        "Monto": 3392.57,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 0.19
+    },
+    {
+        "Monto": 8658.37,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 13.06
+    },
+    {
+        "Monto": 332.01,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 23.76
+    },
+    {
+        "Monto": 4505.22,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 3.61
+    },
+    {
+        "Monto": 3060.7,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 3.37
+    },
+    {
+        "Monto": 3785.17,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 14.67
+    },
+    {
+        "Monto": 968.71,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 14.41
+    },
+    {
+        "Monto": 4155.67,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 17.48
+    },
+    {
+        "Monto": 9397.23,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 21.36
+    },
+    {
+        "Monto": 6222.93,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 15.06
+    },
+    {
+        "Monto": 8734.68,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 1.2
+    },
+    {
+        "Monto": 781.41,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 11.03
+    },
+    {
+        "Monto": 920.26,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 4.3
+    },
+    {
+        "Monto": 6381.87,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 22.1
+    },
+    {
+        "Monto": 6110.48,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 18.42
+    },
+    {
+        "Monto": 1722.82,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 18.24
+    },
+    {
+        "Monto": 6438.06,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 6.88
+    },
+    {
+        "Monto": 8056.8,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 17.4
+    },
+    {
+        "Monto": 2618.79,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 21.83
+    },
+    {
+        "Monto": 6973.29,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 18.96
+    },
+    {
+        "Monto": 2642.12,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 11.21
+    },
+    {
+        "Monto": 2496.58,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 16.39
+    },
+    {
+        "Monto": 4848.1,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 8.73
+    },
+    {
+        "Monto": 8608.72,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 6.38
+    },
+    {
+        "Monto": 5962.49,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 16.23
+    },
+    {
+        "Monto": 7911.92,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 3.52
+    },
+    {
+        "Monto": 764.94,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 5.96
+    },
+    {
+        "Monto": 3561.27,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 3.96
+    },
+    {
+        "Monto": 567.59,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 9.04
+    },
+    {
+        "Monto": 3532.41,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 4.18
+    },
+    {
+        "Monto": 1152.86,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 15.71
+    },
+    {
+        "Monto": 679.8,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 23.49
+    },
+    {
+        "Monto": 3106.87,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 8.57
+    },
+    {
+        "Monto": 169.01,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 13.35
+    },
+    {
+        "Monto": 8598.6,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 13.85
+    },
+    {
+        "Monto": 2637.67,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 14.81
+    },
+    {
+        "Monto": 6963.07,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 2.6
+    },
+    {
+        "Monto": 8989.76,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 10.03
+    },
+    {
+        "Monto": 3942.1,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 0.7
+    },
+    {
+        "Monto": 2051.13,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 23.55
+    },
+    {
+        "Monto": 3143.77,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 21.54
+    },
+    {
+        "Monto": 8287.74,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 17.38
+    },
+    {
+        "Monto": 1373.48,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 16.81
+    },
+    {
+        "Monto": 4559.56,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 4.97
+    },
+    {
+        "Monto": 1642.52,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 11.04
+    },
+    {
+        "Monto": 228.9,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 19.38
+    },
+    {
+        "Monto": 4915.29,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 5.57
+    },
+    {
+        "Monto": 769.4,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 14.07
+    },
+    {
+        "Monto": 3826.77,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 4.88
+    },
+    {
+        "Monto": 5355.92,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 0.64
+    },
+    {
+        "Monto": 4809.93,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 19.72
+    },
+    {
+        "Monto": 6140.44,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 10.77
+    },
+    {
+        "Monto": 343.07,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 10.91
+    },
+    {
+        "Monto": 1552.35,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 13.35
+    },
+    {
+        "Monto": 1825.24,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 15.52
+    },
+    {
+        "Monto": 9650.53,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 15.79
+    },
+    {
+        "Monto": 4103.31,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 21.56
+    },
+    {
+        "Monto": 7729.28,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 22.65
+    },
+    {
+        "Monto": 8477.54,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 3.53
+    },
+    {
+        "Monto": 2378.75,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 22.76
+    },
+    {
+        "Monto": 8125.55,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 11.06
+    },
+    {
+        "Monto": 9407.43,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 20.43
+    },
+    {
+        "Monto": 7326.02,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 23.18
+    },
+    {
+        "Monto": 8951.65,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 7.82
+    },
+    {
+        "Monto": 3393.53,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 6.73
+    },
+    {
+        "Monto": 8019.47,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 5.13
+    },
+    {
+        "Monto": 468.42,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 5.3
+    },
+    {
+        "Monto": 8722.5,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 11.75
+    },
+    {
+        "Monto": 8462.65,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 17.63
+    },
+    {
+        "Monto": 8278.52,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 18.75
+    },
+    {
+        "Monto": 8641.08,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 16.85
+    },
+    {
+        "Monto": 1442.15,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 21.06
+    },
+    {
+        "Monto": 1639.23,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 1.05
+    },
+    {
+        "Monto": 8956.54,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 13.05
+    },
+    {
+        "Monto": 9310.04,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 11.2
+    },
+    {
+        "Monto": 3362.27,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 5.23
+    },
+    {
+        "Monto": 8189.8,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 9.39
+    },
+    {
+        "Monto": 1677.03,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 18.14
+    },
+    {
+        "Monto": 5965.9,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 5.02
+    },
+    {
+        "Monto": 7369.51,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 6.0
+    },
+    {
+        "Monto": 9707.83,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 20.39
+    },
+    {
+        "Monto": 5408.4,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 3.08
+    },
+    {
+        "Monto": 7106.88,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 11.25
+    },
+    {
+        "Monto": 5229.18,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 2.09
+    },
+    {
+        "Monto": 7773.27,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 13.88
+    },
+    {
+        "Monto": 1914.77,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 14.44
+    },
+    {
+        "Monto": 1444.45,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 22.0
+    },
+    {
+        "Monto": 5309.53,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 7.61
+    },
+    {
+        "Monto": 745.43,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 12.29
+    },
+    {
+        "Monto": 6711.58,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 10.48
+    },
+    {
+        "Monto": 6160.08,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 18.41
+    },
+    {
+        "Monto": 2365.7,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 19.24
+    },
+    {
+        "Monto": 6813.22,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 18.59
+    },
+    {
+        "Monto": 4176.11,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 4.99
+    },
+    {
+        "Monto": 9585.28,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 12.51
+    },
+    {
+        "Monto": 7275.57,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 13.3
+    },
+    {
+        "Monto": 4143.04,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 9.32
+    },
+    {
+        "Monto": 9588.65,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 0.68
+    },
+    {
+        "Monto": 2939.2,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 5.02
+    },
+    {
+        "Monto": 1707.39,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 10.94
+    },
+    {
+        "Monto": 4691.58,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 17.75
+    },
+    {
+        "Monto": 7142.8,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 17.99
+    },
+    {
+        "Monto": 5057.05,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 17.72
+    },
+    {
+        "Monto": 2654.95,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 20.89
+    },
+    {
+        "Monto": 8792.04,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 14.8
+    },
+    {
+        "Monto": 56.69,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 6.84
+    },
+    {
+        "Monto": 3635.4,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 2.95
+    },
+    {
+        "Monto": 4432.55,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 10.63
+    },
+    {
+        "Monto": 2758.55,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 0.19
+    },
+    {
+        "Monto": 9372.14,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 15.02
+    },
+    {
+        "Monto": 3797.25,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 23.24
+    },
+    {
+        "Monto": 5532.33,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 5.52
+    },
+    {
+        "Monto": 9738.48,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 11.89
+    },
+    {
+        "Monto": 1903.92,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 20.19
+    },
+    {
+        "Monto": 8838.08,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 9.24
+    },
+    {
+        "Monto": 5950.38,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 6.12
+    },
+    {
+        "Monto": 973.27,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 10.07
+    },
+    {
+        "Monto": 3509.27,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 9.96
+    },
+    {
+        "Monto": 4643.16,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 18.34
+    },
+    {
+        "Monto": 7977.73,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 23.73
+    },
+    {
+        "Monto": 4030.94,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 12.23
+    },
+    {
+        "Monto": 8022.33,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 11.97
+    },
+    {
+        "Monto": 1319.32,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 13.92
+    },
+    {
+        "Monto": 8872.38,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 2.45
+    },
+    {
+        "Monto": 1566.63,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 17.15
+    },
+    {
+        "Monto": 2662.65,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 3.55
+    },
+    {
+        "Monto": 200.37,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 13.65
+    },
+    {
+        "Monto": 9997.99,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 1.83
+    },
+    {
+        "Monto": 3617.29,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 21.01
+    },
+    {
+        "Monto": 6607.58,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 12.08
+    },
+    {
+        "Monto": 3501.88,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 21.6
+    },
+    {
+        "Monto": 1885.65,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 7.62
+    },
+    {
+        "Monto": 4115.87,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 10.9
+    },
+    {
+        "Monto": 7635.95,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 10.75
+    },
+    {
+        "Monto": 4438.47,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 21.05
+    },
+    {
+        "Monto": 2185.79,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 9.36
+    },
+    {
+        "Monto": 4564.26,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 0.74
+    },
+    {
+        "Monto": 8388.85,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 22.46
+    },
+    {
+        "Monto": 4254.75,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 6.6
+    },
+    {
+        "Monto": 2270.71,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 19.28
+    },
+    {
+        "Monto": 9432.22,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 2.07
+    },
+    {
+        "Monto": 7328.99,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 2.44
+    },
+    {
+        "Monto": 3992.72,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 22.88
+    },
+    {
+        "Monto": 1171.07,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 10.29
+    },
+    {
+        "Monto": 4697.09,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 14.54
+    },
+    {
+        "Monto": 2583.34,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 9.24
+    },
+    {
+        "Monto": 5795.26,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 5.57
+    },
+    {
+        "Monto": 6750.05,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 4.49
+    },
+    {
+        "Monto": 8267.05,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 13.59
+    },
+    {
+        "Monto": 803.78,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 8.01
+    },
+    {
+        "Monto": 2923.47,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 17.1
+    },
+    {
+        "Monto": 3631.91,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 19.67
+    },
+    {
+        "Monto": 5670.94,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 5.96
+    },
+    {
+        "Monto": 1002.06,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 4.04
+    },
+    {
+        "Monto": 517.95,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 18.75
+    },
+    {
+        "Monto": 6102.88,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 17.72
+    },
+    {
+        "Monto": 4808.46,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 9.47
+    },
+    {
+        "Monto": 2729.25,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 6.42
+    },
+    {
+        "Monto": 8824.6,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 13.6
+    },
+    {
+        "Monto": 3345.44,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 21.62
+    },
+    {
+        "Monto": 5845.43,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 9.49
+    },
+    {
+        "Monto": 3278.2,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 10.94
+    },
+    {
+        "Monto": 7300.08,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 1.87
+    },
+    {
+        "Monto": 3272.15,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 17.52
+    },
+    {
+        "Monto": 5844.85,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 4.75
+    },
+    {
+        "Monto": 2054.68,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 18.67
+    },
+    {
+        "Monto": 2485.1,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 20.25
+    },
+    {
+        "Monto": 8235.17,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 23.53
+    },
+    {
+        "Monto": 8071.74,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 12.18
+    },
+    {
+        "Monto": 3557.16,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 5.04
+    },
+    {
+        "Monto": 8736.18,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 17.71
+    },
+    {
+        "Monto": 3739.01,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 0.91
+    },
+    {
+        "Monto": 5822.19,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 3.8
+    },
+    {
+        "Monto": 2537.95,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 4.27
+    },
+    {
+        "Monto": 9035.14,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 12.65
+    },
+    {
+        "Monto": 3517.56,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 0.66
+    },
+    {
+        "Monto": 7027.85,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 21.24
+    },
+    {
+        "Monto": 7657.21,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 14.37
+    },
+    {
+        "Monto": 5977.24,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 18.9
+    },
+    {
+        "Monto": 4223.76,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 23.73
+    },
+    {
+        "Monto": 9722.59,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 9.05
+    },
+    {
+        "Monto": 3734.78,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 0.49
+    },
+    {
+        "Monto": 9268.36,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 8.53
+    },
+    {
+        "Monto": 2605.45,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 2.61
+    },
+    {
+        "Monto": 9132.27,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 22.42
+    },
+    {
+        "Monto": 3725.44,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 1.98
+    },
+    {
+        "Monto": 5668.51,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 3.14
+    },
+    {
+        "Monto": 3235.02,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 10.59
+    },
+    {
+        "Monto": 9817.95,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 10.63
+    },
+    {
+        "Monto": 7287.67,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 20.85
+    },
+    {
+        "Monto": 6392.83,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 17.35
+    },
+    {
+        "Monto": 9487.3,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 10.25
+    },
+    {
+        "Monto": 3933.05,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 22.55
+    },
+    {
+        "Monto": 5671.37,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 0.94
+    },
+    {
+        "Monto": 1908.52,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 9.78
+    },
+    {
+        "Monto": 5157.09,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 17.46
+    },
+    {
+        "Monto": 7943.8,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 0.37
+    },
+    {
+        "Monto": 1619.51,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 19.74
+    },
+    {
+        "Monto": 7702.24,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 9.24
+    },
+    {
+        "Monto": 9252.26,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 17.55
+    },
+    {
+        "Monto": 7342.09,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 18.32
+    },
+    {
+        "Monto": 3104.51,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 23.15
+    },
+    {
+        "Monto": 1183.15,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 7.05
+    },
+    {
+        "Monto": 8244.17,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 16.94
+    },
+    {
+        "Monto": 1162.82,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 15.56
+    },
+    {
+        "Monto": 4442.19,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 4.16
+    },
+    {
+        "Monto": 8829.55,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 20.47
+    },
+    {
+        "Monto": 2958.84,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 19.9
+    },
+    {
+        "Monto": 6553.61,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 12.77
+    },
+    {
+        "Monto": 1952.63,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 4.44
+    },
+    {
+        "Monto": 4299.16,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 15.34
+    },
+    {
+        "Monto": 9727.33,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 10.75
+    },
+    {
+        "Monto": 3392.36,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 21.58
+    },
+    {
+        "Monto": 4986.71,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 12.72
+    },
+    {
+        "Monto": 6554.38,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 2.32
+    },
+    {
+        "Monto": 6919.32,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 11.33
+    },
+    {
+        "Monto": 6771.97,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 13.28
+    },
+    {
+        "Monto": 6911.88,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 21.87
+    },
+    {
+        "Monto": 5552.03,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 13.64
+    },
+    {
+        "Monto": 320.28,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 10.1
+    },
+    {
+        "Monto": 6760.61,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 17.11
+    },
+    {
+        "Monto": 8114.09,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 21.63
+    },
+    {
+        "Monto": 5765.06,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 13.39
+    },
+    {
+        "Monto": 2189.13,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 19.31
+    },
+    {
+        "Monto": 7748.87,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 21.04
+    },
+    {
+        "Monto": 4594.58,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 20.38
+    },
+    {
+        "Monto": 7340.34,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 3.6
+    },
+    {
+        "Monto": 9009.35,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 16.06
+    },
+    {
+        "Monto": 1912.62,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 12.26
+    },
+    {
+        "Monto": 8963.19,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 2.06
+    },
+    {
+        "Monto": 248.65,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 18.56
+    },
+    {
+        "Monto": 2713.22,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 22.7
+    },
+    {
+        "Monto": 2251.68,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 18.21
+    },
+    {
+        "Monto": 9942.35,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 9.07
+    },
+    {
+        "Monto": 4407.31,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 7.39
+    },
+    {
+        "Monto": 6468.29,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 1.31
+    },
+    {
+        "Monto": 4024.14,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 19.99
+    },
+    {
+        "Monto": 4419.2,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 21.58
+    },
+    {
+        "Monto": 6234.79,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 18.47
+    },
+    {
+        "Monto": 7198.39,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 2.14
+    },
+    {
+        "Monto": 2400.45,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 6.53
+    },
+    {
+        "Monto": 7126.13,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 5.36
+    },
+    {
+        "Monto": 9655.95,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 1.46
+    },
+    {
+        "Monto": 4416.82,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 23.83
+    },
+    {
+        "Monto": 2210.65,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 14.21
+    },
+    {
+        "Monto": 5837.06,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 8.79
+    },
+    {
+        "Monto": 6341.43,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 16.8
+    },
+    {
+        "Monto": 5492.54,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 16.76
+    },
+    {
+        "Monto": 374.92,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 20.06
+    },
+    {
+        "Monto": 6592.99,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 3.0
+    },
+    {
+        "Monto": 9780.16,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 13.97
+    },
+    {
+        "Monto": 7392.64,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 5.29
+    },
+    {
+        "Monto": 4303.07,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 19.4
+    },
+    {
+        "Monto": 215.02,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 9.99
+    },
+    {
+        "Monto": 9071.11,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 15.34
+    },
+    {
+        "Monto": 9388.03,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 22.62
+    },
+    {
+        "Monto": 2916.93,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 22.62
+    },
+    {
+        "Monto": 3592.6,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 16.44
+    },
+    {
+        "Monto": 1553.9,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 12.12
+    },
+    {
+        "Monto": 2381.54,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 22.43
+    },
+    {
+        "Monto": 3972.32,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 0.88
+    },
+    {
+        "Monto": 643.26,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 23.72
+    },
+    {
+        "Monto": 6201.44,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 6.67
+    },
+    {
+        "Monto": 3905.17,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 12.31
+    },
+    {
+        "Monto": 9358.87,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 13.37
+    },
+    {
+        "Monto": 3896.69,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 15.84
+    },
+    {
+        "Monto": 3916.8,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 8.81
+    },
+    {
+        "Monto": 1564.0,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 1.79
+    },
+    {
+        "Monto": 1875.42,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 18.19
+    },
+    {
+        "Monto": 9644.71,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 6.81
+    },
+    {
+        "Monto": 183.98,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 1.04
+    },
+    {
+        "Monto": 3340.77,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 6.01
+    },
+    {
+        "Monto": 6529.21,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 12.85
+    },
+    {
+        "Monto": 2264.37,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 23.64
+    },
+    {
+        "Monto": 4037.19,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 11.54
+    },
+    {
+        "Monto": 9614.52,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 5.86
+    },
+    {
+        "Monto": 7910.35,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 16.51
+    },
+    {
+        "Monto": 9928.93,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 9.24
+    },
+    {
+        "Monto": 1975.49,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 22.73
+    },
+    {
+        "Monto": 4009.24,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 18.46
+    },
+    {
+        "Monto": 5360.66,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 3.69
+    },
+    {
+        "Monto": 6292.05,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 0.82
+    },
+    {
+        "Monto": 8367.83,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 14.28
+    },
+    {
+        "Monto": 4406.65,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 7.33
+    },
+    {
+        "Monto": 8060.46,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 11.79
+    },
+    {
+        "Monto": 8944.11,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 6.08
+    },
+    {
+        "Monto": 9955.19,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 4.18
+    },
+    {
+        "Monto": 6134.6,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 2.32
+    },
+    {
+        "Monto": 586.99,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 2.95
+    },
+    {
+        "Monto": 193.92,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 3.59
+    },
+    {
+        "Monto": 2215.86,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 16.98
+    },
+    {
+        "Monto": 9866.24,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 19.91
+    },
+    {
+        "Monto": 2010.96,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 11.09
+    },
+    {
+        "Monto": 2867.99,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 18.82
+    },
+    {
+        "Monto": 6679.99,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 22.68
+    },
+    {
+        "Monto": 6775.21,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 1.42
+    },
+    {
+        "Monto": 7790.02,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 20.54
+    },
+    {
+        "Monto": 611.7,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 3.41
+    },
+    {
+        "Monto": 4430.19,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 22.28
+    },
+    {
+        "Monto": 1523.86,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 1.38
+    },
+    {
+        "Monto": 5985.54,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 17.6
+    },
+    {
+        "Monto": 8022.68,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 21.71
+    },
+    {
+        "Monto": 7858.99,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 21.74
+    },
+    {
+        "Monto": 6981.82,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 5.8
+    },
+    {
+        "Monto": 6230.41,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 4.44
+    },
+    {
+        "Monto": 3050.97,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 16.73
+    },
+    {
+        "Monto": 7846.81,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 9.83
+    },
+    {
+        "Monto": 5474.4,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 1.63
+    },
+    {
+        "Monto": 3960.37,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 13.56
+    },
+    {
+        "Monto": 2207.61,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 11.63
+    },
+    {
+        "Monto": 9874.81,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 20.53
+    },
+    {
+        "Monto": 5968.49,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 20.92
+    },
+    {
+        "Monto": 1954.58,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 0.89
+    },
+    {
+        "Monto": 5780.24,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 19.38
+    },
+    {
+        "Monto": 289.37,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 15.56
+    },
+    {
+        "Monto": 5441.65,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 7.34
+    },
+    {
+        "Monto": 633.39,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 12.97
+    },
+    {
+        "Monto": 1006.51,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 12.93
+    },
+    {
+        "Monto": 1775.02,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 17.2
+    },
+    {
+        "Monto": 8729.92,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 17.84
+    },
+    {
+        "Monto": 1596.97,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 12.48
+    },
+    {
+        "Monto": 6757.35,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 12.95
+    },
+    {
+        "Monto": 3795.94,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 17.28
+    },
+    {
+        "Monto": 824.02,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 7.13
+    },
+    {
+        "Monto": 6672.81,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 21.44
+    },
+    {
+        "Monto": 6763.56,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 21.12
+    },
+    {
+        "Monto": 4821.67,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 14.39
+    },
+    {
+        "Monto": 8194.42,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 14.59
+    },
+    {
+        "Monto": 2280.05,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 20.0
+    },
+    {
+        "Monto": 9403.62,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 10.61
+    },
+    {
+        "Monto": 5528.97,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 21.43
+    },
+    {
+        "Monto": 5804.09,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 1.37
+    },
+    {
+        "Monto": 5787.15,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 18.64
+    },
+    {
+        "Monto": 6616.08,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 5.46
+    },
+    {
+        "Monto": 2119.9,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 0.2
+    },
+    {
+        "Monto": 856.62,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 2.12
+    },
+    {
+        "Monto": 9699.29,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 10.86
+    },
+    {
+        "Monto": 8424.5,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 5.64
+    },
+    {
+        "Monto": 741.07,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 8.31
+    },
+    {
+        "Monto": 6735.86,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 22.98
+    },
+    {
+        "Monto": 8583.61,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 22.75
+    },
+    {
+        "Monto": 3950.16,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 0.46
+    },
+    {
+        "Monto": 3948.15,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 9.62
+    },
+    {
+        "Monto": 1273.47,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 21.47
+    },
+    {
+        "Monto": 208.32,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 17.21
+    },
+    {
+        "Monto": 8027.29,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 15.1
+    },
+    {
+        "Monto": 5517.6,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 8.07
+    },
+    {
+        "Monto": 1416.15,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 22.07
+    },
+    {
+        "Monto": 3153.74,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 11.57
+    },
+    {
+        "Monto": 9435.82,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 0.96
+    },
+    {
+        "Monto": 7092.97,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 15.79
+    },
+    {
+        "Monto": 7357.46,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 11.46
+    },
+    {
+        "Monto": 5067.74,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 16.7
+    },
+    {
+        "Monto": 6337.45,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 14.66
+    },
+    {
+        "Monto": 7722.93,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 20.23
+    },
+    {
+        "Monto": 8376.12,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 18.97
+    },
+    {
+        "Monto": 644.82,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 1.57
+    },
+    {
+        "Monto": 690.1,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 14.64
+    },
+    {
+        "Monto": 3390.15,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 11.46
+    },
+    {
+        "Monto": 6762.15,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 12.39
+    },
+    {
+        "Monto": 7267.58,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 10.86
+    },
+    {
+        "Monto": 4953.46,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 19.09
+    },
+    {
+        "Monto": 2440.5,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 19.62
+    },
+    {
+        "Monto": 4691.05,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 5.4
+    },
+    {
+        "Monto": 2007.9,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 7.93
+    },
+    {
+        "Monto": 7959.93,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 14.8
+    },
+    {
+        "Monto": 6941.24,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 22.58
+    },
+    {
+        "Monto": 1739.64,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 20.79
+    },
+    {
+        "Monto": 3624.61,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 4.65
+    },
+    {
+        "Monto": 9768.28,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 10.96
+    },
+    {
+        "Monto": 5041.68,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 2.23
+    },
+    {
+        "Monto": 2457.73,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 10.77
+    },
+    {
+        "Monto": 1785.28,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 3.61
+    },
+    {
+        "Monto": 6883.16,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 3.86
+    },
+    {
+        "Monto": 2724.71,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 12.47
+    },
+    {
+        "Monto": 9835.9,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 4.86
+    },
+    {
+        "Monto": 3370.59,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 10.14
+    },
+    {
+        "Monto": 4810.0,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 5.66
+    },
+    {
+        "Monto": 3612.89,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 6.77
+    },
+    {
+        "Monto": 7847.94,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 16.2
+    },
+    {
+        "Monto": 7737.72,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 6.54
+    },
+    {
+        "Monto": 8634.89,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 1.22
+    },
+    {
+        "Monto": 7108.75,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 19.46
+    },
+    {
+        "Monto": 4331.2,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 11.46
+    },
+    {
+        "Monto": 4819.18,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 13.94
+    },
+    {
+        "Monto": 8188.23,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 21.18
+    },
+    {
+        "Monto": 5795.34,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 23.82
+    },
+    {
+        "Monto": 5458.04,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 18.93
+    },
+    {
+        "Monto": 5325.11,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 20.38
+    },
+    {
+        "Monto": 1747.89,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 19.26
+    },
+    {
+        "Monto": 9397.33,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 3.72
+    },
+    {
+        "Monto": 9690.19,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 14.91
+    },
+    {
+        "Monto": 93.93,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 21.23
+    },
+    {
+        "Monto": 9150.95,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 20.04
+    },
+    {
+        "Monto": 7376.11,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 10.05
+    },
+    {
+        "Monto": 8821.18,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 13.25
+    },
+    {
+        "Monto": 9105.24,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 23.27
+    },
+    {
+        "Monto": 6954.57,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 22.68
+    },
+    {
+        "Monto": 9531.1,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 1.46
+    },
+    {
+        "Monto": 5860.53,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 21.25
+    },
+    {
+        "Monto": 211.73,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 15.46
+    },
+    {
+        "Monto": 2861.66,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 17.29
+    },
+    {
+        "Monto": 7402.52,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 11.04
+    },
+    {
+        "Monto": 4586.66,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 14.35
+    },
+    {
+        "Monto": 4171.91,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 18.37
+    },
+    {
+        "Monto": 3932.45,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 4.73
+    },
+    {
+        "Monto": 596.48,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 4.47
+    },
+    {
+        "Monto": 8237.78,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 7.91
+    },
+    {
+        "Monto": 3355.48,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 14.39
+    },
+    {
+        "Monto": 3722.97,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 22.55
+    },
+    {
+        "Monto": 7063.46,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 0.28
+    },
+    {
+        "Monto": 9020.64,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 13.43
+    },
+    {
+        "Monto": 1833.53,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 16.29
+    },
+    {
+        "Monto": 6124.09,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 9.78
+    },
+    {
+        "Monto": 2581.73,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 1.04
+    },
+    {
+        "Monto": 9741.6,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 6.7
+    },
+    {
+        "Monto": 526.15,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 13.45
+    },
+    {
+        "Monto": 5913.0,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 15.2
+    },
+    {
+        "Monto": 6695.46,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 14.44
+    },
+    {
+        "Monto": 6641.78,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 22.04
+    },
+    {
+        "Monto": 5740.41,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 6.88
+    },
+    {
+        "Monto": 1696.5,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 10.63
+    },
+    {
+        "Monto": 6956.3,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 1.9
+    },
+    {
+        "Monto": 2650.28,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 5.33
+    },
+    {
+        "Monto": 8071.03,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 2.51
+    },
+    {
+        "Monto": 3664.8,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 14.76
+    },
+    {
+        "Monto": 6417.77,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 20.19
+    },
+    {
+        "Monto": 7459.77,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 3.03
+    },
+    {
+        "Monto": 3760.36,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 21.58
+    },
+    {
+        "Monto": 2325.74,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 16.16
+    },
+    {
+        "Monto": 8658.05,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 16.55
+    },
+    {
+        "Monto": 4317.85,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 21.65
+    },
+    {
+        "Monto": 6731.49,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 4.45
+    },
+    {
+        "Monto": 8807.85,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 21.65
+    },
+    {
+        "Monto": 2413.4,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 17.37
+    },
+    {
+        "Monto": 4335.38,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 4.45
+    },
+    {
+        "Monto": 3575.49,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 0.99
+    },
+    {
+        "Monto": 4962.06,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 19.15
+    },
+    {
+        "Monto": 3431.9,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 3.78
+    },
+    {
+        "Monto": 1818.88,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 8.57
+    },
+    {
+        "Monto": 6502.71,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 19.76
+    },
+    {
+        "Monto": 9173.2,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 7.94
+    },
+    {
+        "Monto": 3678.78,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 4.83
+    },
+    {
+        "Monto": 319.51,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 22.46
+    },
+    {
+        "Monto": 5171.01,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 17.2
+    },
+    {
+        "Monto": 1843.27,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 3.53
+    },
+    {
+        "Monto": 5574.21,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 20.68
+    },
+    {
+        "Monto": 634.33,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 8.65
+    },
+    {
+        "Monto": 5705.86,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 13.12
+    },
+    {
+        "Monto": 3703.9,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 22.29
+    },
+    {
+        "Monto": 8686.25,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 19.94
+    },
+    {
+        "Monto": 521.3,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 23.83
+    },
+    {
+        "Monto": 5980.2,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 4.51
+    },
+    {
+        "Monto": 1257.43,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 20.33
+    },
+    {
+        "Monto": 6625.61,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 4.94
+    },
+    {
+        "Monto": 2557.26,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 3.87
+    },
+    {
+        "Monto": 9121.61,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 6.94
+    },
+    {
+        "Monto": 6940.69,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 5.77
+    },
+    {
+        "Monto": 7252.56,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 10.6
+    },
+    {
+        "Monto": 4071.32,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 0.22
+    },
+    {
+        "Monto": 2504.17,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 15.97
+    },
+    {
+        "Monto": 253.33,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 0.36
+    },
+    {
+        "Monto": 7222.22,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 8.46
+    },
+    {
+        "Monto": 3977.03,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 23.04
+    },
+    {
+        "Monto": 73.43,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 19.61
+    },
+    {
+        "Monto": 7707.33,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 21.04
+    },
+    {
+        "Monto": 1365.68,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 22.94
+    },
+    {
+        "Monto": 419.1,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 10.22
+    },
+    {
+        "Monto": 7441.03,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 9.63
+    },
+    {
+        "Monto": 7116.74,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 2.96
+    },
+    {
+        "Monto": 3766.94,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 16.23
+    },
+    {
+        "Monto": 5914.56,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 2.78
+    },
+    {
+        "Monto": 5320.38,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 5.01
+    },
+    {
+        "Monto": 3665.75,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 19.37
+    },
+    {
+        "Monto": 208.28,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 13.83
+    },
+    {
+        "Monto": 5902.27,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 1.02
+    },
+    {
+        "Monto": 8516.13,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 13.38
+    },
+    {
+        "Monto": 4065.6,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 15.49
+    },
+    {
+        "Monto": 9764.67,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 2.7
+    },
+    {
+        "Monto": 7763.33,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 2.6
+    },
+    {
+        "Monto": 929.19,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 21.63
+    },
+    {
+        "Monto": 7689.31,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 11.42
+    },
+    {
+        "Monto": 9901.56,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 15.64
+    },
+    {
+        "Monto": 8017.47,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 18.61
+    },
+    {
+        "Monto": 8528.1,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 3.41
+    },
+    {
+        "Monto": 6990.18,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 0.65
+    },
+    {
+        "Monto": 7083.09,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 6.61
+    },
+    {
+        "Monto": 2829.81,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 19.16
+    },
+    {
+        "Monto": 6844.3,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 17.15
+    },
+    {
+        "Monto": 2165.76,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 11.87
+    },
+    {
+        "Monto": 3471.36,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 20.35
+    },
+    {
+        "Monto": 7565.95,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 9.92
+    },
+    {
+        "Monto": 1248.11,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 10.49
+    },
+    {
+        "Monto": 4220.84,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 15.76
+    },
+    {
+        "Monto": 8457.43,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 13.72
+    },
+    {
+        "Monto": 9400.48,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 15.11
+    },
+    {
+        "Monto": 3281.48,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 13.89
+    },
+    {
+        "Monto": 8760.65,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 5.94
+    },
+    {
+        "Monto": 7573.57,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 0.05
+    },
+    {
+        "Monto": 1748.03,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 13.06
+    },
+    {
+        "Monto": 6560.85,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 4.37
+    },
+    {
+        "Monto": 5033.69,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 19.3
+    },
+    {
+        "Monto": 2627.32,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 6.45
+    },
+    {
+        "Monto": 8401.01,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 1.9
+    },
+    {
+        "Monto": 4564.57,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 22.56
+    },
+    {
+        "Monto": 9536.88,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 4.59
+    },
+    {
+        "Monto": 6491.08,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 20.74
+    },
+    {
+        "Monto": 7645.17,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 11.57
+    },
+    {
+        "Monto": 7249.42,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 7.52
+    },
+    {
+        "Monto": 1731.01,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 8.24
+    },
+    {
+        "Monto": 7486.23,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 22.08
+    },
+    {
+        "Monto": 5465.85,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 5.62
+    },
+    {
+        "Monto": 6451.76,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 5.05
+    },
+    {
+        "Monto": 9356.08,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 17.45
+    },
+    {
+        "Monto": 1925.22,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 7.85
+    },
+    {
+        "Monto": 9180.31,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 21.87
+    },
+    {
+        "Monto": 1345.78,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 23.36
+    },
+    {
+        "Monto": 2398.08,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 14.98
+    },
+    {
+        "Monto": 4957.1,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 20.36
+    },
+    {
+        "Monto": 3300.39,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 21.24
+    },
+    {
+        "Monto": 3796.92,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 21.3
+    },
+    {
+        "Monto": 5319.68,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 23.7
+    },
+    {
+        "Monto": 1975.59,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 12.37
+    },
+    {
+        "Monto": 3117.87,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 11.68
+    },
+    {
+        "Monto": 7073.71,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 7.94
+    },
+    {
+        "Monto": 4135.63,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 6.92
+    },
+    {
+        "Monto": 3539.54,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 21.12
+    },
+    {
+        "Monto": 6383.61,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 6.33
+    },
+    {
+        "Monto": 8851.03,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 10.96
+    },
+    {
+        "Monto": 1174.98,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 9.86
+    },
+    {
+        "Monto": 9097.95,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 3.76
+    },
+    {
+        "Monto": 1200.53,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 1.43
+    },
+    {
+        "Monto": 6715.0,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 8.18
+    },
+    {
+        "Monto": 7874.27,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 14.54
+    },
+    {
+        "Monto": 2261.26,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 17.75
+    },
+    {
+        "Monto": 3350.83,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 11.36
+    },
+    {
+        "Monto": 8739.07,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 4.51
+    },
+    {
+        "Monto": 5888.1,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 16.99
+    },
+    {
+        "Monto": 9338.51,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 3.46
+    },
+    {
+        "Monto": 1958.03,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 10.2
+    },
+    {
+        "Monto": 4694.15,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 21.91
+    },
+    {
+        "Monto": 3320.98,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 22.39
+    },
+    {
+        "Monto": 2615.11,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 12.92
+    },
+    {
+        "Monto": 5094.29,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 13.84
+    },
+    {
+        "Monto": 5826.38,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 1.22
+    },
+    {
+        "Monto": 4873.69,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 16.01
+    },
+    {
+        "Monto": 2969.34,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 20.59
+    },
+    {
+        "Monto": 6407.07,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 10.58
+    },
+    {
+        "Monto": 4128.95,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 11.67
+    },
+    {
+        "Monto": 1583.77,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 9.39
+    },
+    {
+        "Monto": 2029.48,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 17.09
+    },
+    {
+        "Monto": 6311.6,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 23.56
+    },
+    {
+        "Monto": 2609.6,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 20.23
+    },
+    {
+        "Monto": 6115.21,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 22.42
+    },
+    {
+        "Monto": 2935.84,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 22.04
+    },
+    {
+        "Monto": 5882.91,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 1.2
+    },
+    {
+        "Monto": 6869.9,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 5.59
+    },
+    {
+        "Monto": 1774.29,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 1.32
+    },
+    {
+        "Monto": 3457.18,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 10.33
+    },
+    {
+        "Monto": 5632.55,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 11.68
+    },
+    {
+        "Monto": 9754.33,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 10.84
+    },
+    {
+        "Monto": 5916.62,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 3.98
+    },
+    {
+        "Monto": 4817.82,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 10.86
+    },
+    {
+        "Monto": 5571.19,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 19.06
+    },
+    {
+        "Monto": 789.54,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 11.72
+    },
+    {
+        "Monto": 2761.92,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 3.95
+    },
+    {
+        "Monto": 4127.39,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 18.54
+    },
+    {
+        "Monto": 6487.65,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 21.43
+    },
+    {
+        "Monto": 3334.95,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 5.97
+    },
+    {
+        "Monto": 1698.25,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 15.57
+    },
+    {
+        "Monto": 6110.25,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 0.54
+    },
+    {
+        "Monto": 8829.99,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 4.84
+    },
+    {
+        "Monto": 6133.95,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 12.41
+    },
+    {
+        "Monto": 7775.59,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 6.6
+    },
+    {
+        "Monto": 5347.33,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 4.69
+    },
+    {
+        "Monto": 8138.17,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 1.76
+    },
+    {
+        "Monto": 9641.6,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 13.28
+    },
+    {
+        "Monto": 9661.93,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 19.71
+    },
+    {
+        "Monto": 6588.79,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 6.09
+    },
+    {
+        "Monto": 2103.38,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 17.25
+    },
+    {
+        "Monto": 4407.66,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 21.95
+    },
+    {
+        "Monto": 7945.55,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 9.41
+    },
+    {
+        "Monto": 8539.93,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 4.52
+    },
+    {
+        "Monto": 3154.63,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 5.31
+    },
+    {
+        "Monto": 6433.41,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 6.21
+    },
+    {
+        "Monto": 2390.1,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 1.87
+    },
+    {
+        "Monto": 6737.14,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 5.49
+    },
+    {
+        "Monto": 9789.81,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 2.26
+    },
+    {
+        "Monto": 6529.17,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 14.27
+    },
+    {
+        "Monto": 3844.1,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 5.83
+    },
+    {
+        "Monto": 2492.93,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 5.0
+    },
+    {
+        "Monto": 3142.83,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 15.17
+    },
+    {
+        "Monto": 9660.0,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 9.72
+    },
+    {
+        "Monto": 4063.79,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 9.26
+    },
+    {
+        "Monto": 6834.36,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 22.89
+    },
+    {
+        "Monto": 1149.79,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 11.56
+    },
+    {
+        "Monto": 3121.01,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 12.51
+    },
+    {
+        "Monto": 5777.53,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 7.98
+    },
+    {
+        "Monto": 7731.1,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 8.25
+    },
+    {
+        "Monto": 2263.24,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 13.49
+    },
+    {
+        "Monto": 4187.82,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 5.36
+    },
+    {
+        "Monto": 6018.15,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 22.39
+    },
+    {
+        "Monto": 6314.03,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 5.93
+    },
+    {
+        "Monto": 8006.26,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 18.52
+    },
+    {
+        "Monto": 2676.33,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 15.52
+    },
+    {
+        "Monto": 7761.48,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 23.0
+    },
+    {
+        "Monto": 7650.48,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 10.07
+    },
+    {
+        "Monto": 6009.56,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 23.67
+    },
+    {
+        "Monto": 1399.03,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 23.24
+    },
+    {
+        "Monto": 8042.61,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 19.14
+    },
+    {
+        "Monto": 3204.71,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 1.18
+    },
+    {
+        "Monto": 7717.69,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 3.61
+    },
+    {
+        "Monto": 2467.6,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 17.57
+    },
+    {
+        "Monto": 3700.76,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 21.06
+    },
+    {
+        "Monto": 8110.83,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 20.52
+    },
+    {
+        "Monto": 4195.49,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 4.83
+    },
+    {
+        "Monto": 3733.95,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 2.62
+    },
+    {
+        "Monto": 7390.42,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 16.21
+    },
+    {
+        "Monto": 1386.74,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 10.06
+    },
+    {
+        "Monto": 1462.8,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 19.83
+    },
+    {
+        "Monto": 1102.28,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 9.53
+    },
+    {
+        "Monto": 1724.39,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 13.57
+    },
+    {
+        "Monto": 1965.76,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 17.4
+    },
+    {
+        "Monto": 239.07,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 4.25
+    },
+    {
+        "Monto": 3819.33,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 0.97
+    },
+    {
+        "Monto": 798.0,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 2.57
+    },
+    {
+        "Monto": 8624.09,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 23.82
+    },
+    {
+        "Monto": 9778.63,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 3.21
+    },
+    {
+        "Monto": 926.31,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 14.34
+    },
+    {
+        "Monto": 8334.77,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 9.32
+    },
+    {
+        "Monto": 6436.04,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 19.73
+    },
+    {
+        "Monto": 3536.86,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 16.86
+    },
+    {
+        "Monto": 5734.94,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 5.76
+    },
+    {
+        "Monto": 5869.75,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 3.66
+    },
+    {
+        "Monto": 7630.0,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 14.95
+    },
+    {
+        "Monto": 805.49,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 7.94
+    },
+    {
+        "Monto": 8261.48,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 23.03
+    },
+    {
+        "Monto": 5193.53,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 23.43
+    },
+    {
+        "Monto": 9443.72,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 12.72
+    },
+    {
+        "Monto": 5950.49,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 6.17
+    },
+    {
+        "Monto": 1359.99,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 13.04
+    },
+    {
+        "Monto": 9788.68,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 20.19
+    },
+    {
+        "Monto": 4485.14,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 3.35
+    },
+    {
+        "Monto": 4460.0,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 12.02
+    },
+    {
+        "Monto": 9610.75,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 0.03
+    },
+    {
+        "Monto": 3043.91,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 4.08
+    },
+    {
+        "Monto": 2249.78,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 10.0
+    },
+    {
+        "Monto": 4505.09,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 13.31
+    },
+    {
+        "Monto": 894.53,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 8.24
+    },
+    {
+        "Monto": 9311.66,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 3.34
+    },
+    {
+        "Monto": 8976.58,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 3.73
+    },
+    {
+        "Monto": 6767.11,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 16.84
+    },
+    {
+        "Monto": 5651.02,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 14.05
+    },
+    {
+        "Monto": 5276.94,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 14.96
+    },
+    {
+        "Monto": 6573.91,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 19.3
+    },
+    {
+        "Monto": 3147.09,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 7.82
+    },
+    {
+        "Monto": 6167.41,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 12.57
+    },
+    {
+        "Monto": 5890.34,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 21.68
+    },
+    {
+        "Monto": 1415.3,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 7.98
+    },
+    {
+        "Monto": 849.52,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 10.78
+    },
+    {
+        "Monto": 6225.74,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 2.94
+    },
+    {
+        "Monto": 3798.28,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 13.46
+    },
+    {
+        "Monto": 1158.73,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 11.59
+    },
+    {
+        "Monto": 5485.19,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 1.44
+    },
+    {
+        "Monto": 6294.75,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 3.75
+    },
+    {
+        "Monto": 9791.14,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 3.3
+    },
+    {
+        "Monto": 4297.63,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 6.04
+    },
+    {
+        "Monto": 4681.54,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 8.46
+    },
+    {
+        "Monto": 380.78,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 20.98
+    },
+    {
+        "Monto": 5758.9,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 23.3
+    },
+    {
+        "Monto": 7304.11,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 0.91
+    },
+    {
+        "Monto": 4430.16,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 23.51
+    },
+    {
+        "Monto": 4753.96,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 9.63
+    },
+    {
+        "Monto": 3776.95,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 20.74
+    },
+    {
+        "Monto": 6149.59,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 7.72
+    },
+    {
+        "Monto": 430.82,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 12.02
+    },
+    {
+        "Monto": 3226.24,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 13.57
+    },
+    {
+        "Monto": 2542.23,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 10.87
+    },
+    {
+        "Monto": 9336.76,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 21.08
+    },
+    {
+        "Monto": 7641.63,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 18.92
+    },
+    {
+        "Monto": 8854.77,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 6.07
+    },
+    {
+        "Monto": 5891.42,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 20.52
+    },
+    {
+        "Monto": 881.58,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 6.25
+    },
+    {
+        "Monto": 1878.72,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 13.86
+    },
+    {
+        "Monto": 9188.81,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 20.66
+    },
+    {
+        "Monto": 4402.96,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 5.32
+    },
+    {
+        "Monto": 6106.92,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 14.17
+    },
+    {
+        "Monto": 6526.6,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 8.9
+    },
+    {
+        "Monto": 4249.55,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 16.57
+    },
+    {
+        "Monto": 9876.41,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 10.26
+    },
+    {
+        "Monto": 9588.59,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 18.25
+    },
+    {
+        "Monto": 4739.92,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 1.59
+    },
+    {
+        "Monto": 9068.7,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 7.46
+    },
+    {
+        "Monto": 5062.25,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 12.86
+    },
+    {
+        "Monto": 2698.01,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 10.83
+    },
+    {
+        "Monto": 5548.54,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 22.91
+    },
+    {
+        "Monto": 4113.71,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 2.15
+    },
+    {
+        "Monto": 1934.65,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 8.66
+    },
+    {
+        "Monto": 3869.21,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 10.87
+    },
+    {
+        "Monto": 9718.65,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 18.55
+    },
+    {
+        "Monto": 9578.87,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 22.25
+    },
+    {
+        "Monto": 5536.55,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 1.06
+    },
+    {
+        "Monto": 9630.18,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 22.36
+    },
+    {
+        "Monto": 6319.94,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 16.78
+    },
+    {
+        "Monto": 6493.24,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 6.39
+    },
+    {
+        "Monto": 6924.36,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 4.75
+    },
+    {
+        "Monto": 9238.25,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 9.32
+    },
+    {
+        "Monto": 1767.75,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 20.87
+    },
+    {
+        "Monto": 5561.43,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 8.83
+    },
+    {
+        "Monto": 990.72,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 14.76
+    },
+    {
+        "Monto": 5354.53,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 23.15
+    },
+    {
+        "Monto": 9517.89,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 12.27
+    },
+    {
+        "Monto": 1672.96,
+        "Frecuencia": 21,
+        "TiempoTransaccion": 11.46
+    },
+    {
+        "Monto": 9610.5,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 6.16
+    },
+    {
+        "Monto": 4949.92,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 20.55
+    },
+    {
+        "Monto": 6628.42,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 0.55
+    },
+    {
+        "Monto": 7293.94,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 9.01
+    },
+    {
+        "Monto": 9256.55,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 10.91
+    },
+    {
+        "Monto": 6268.95,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 22.69
+    },
+    {
+        "Monto": 7064.59,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 13.12
+    },
+    {
+        "Monto": 711.63,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 21.57
+    },
+    {
+        "Monto": 3986.49,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 16.78
+    },
+    {
+        "Monto": 3403.33,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 9.96
+    },
+    {
+        "Monto": 9663.61,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 4.69
+    },
+    {
+        "Monto": 8034.83,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 6.0
+    },
+    {
+        "Monto": 608.28,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 3.95
+    },
+    {
+        "Monto": 4927.68,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 20.57
+    },
+    {
+        "Monto": 9269.75,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 1.22
+    },
+    {
+        "Monto": 2534.2,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 3.58
+    },
+    {
+        "Monto": 2440.39,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 15.9
+    },
+    {
+        "Monto": 6443.4,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 5.67
+    },
+    {
+        "Monto": 4766.81,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 9.59
+    },
+    {
+        "Monto": 5553.24,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 14.04
+    },
+    {
+        "Monto": 4137.2,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 9.69
+    },
+    {
+        "Monto": 7780.16,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 20.84
+    },
+    {
+        "Monto": 9165.55,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 5.82
+    },
+    {
+        "Monto": 1373.57,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 11.26
+    },
+    {
+        "Monto": 323.38,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 14.45
+    },
+    {
+        "Monto": 7582.58,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 18.53
+    },
+    {
+        "Monto": 802.45,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 13.7
+    },
+    {
+        "Monto": 2276.09,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 20.96
+    },
+    {
+        "Monto": 9871.2,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 14.93
+    },
+    {
+        "Monto": 5170.34,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 0.98
+    },
+    {
+        "Monto": 7045.7,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 17.45
+    },
+    {
+        "Monto": 63.66,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 14.84
+    },
+    {
+        "Monto": 8963.64,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 8.78
+    },
+    {
+        "Monto": 2734.89,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 15.0
+    },
+    {
+        "Monto": 3453.08,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 20.82
+    },
+    {
+        "Monto": 2112.8,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 15.15
+    },
+    {
+        "Monto": 353.5,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 4.47
+    },
+    {
+        "Monto": 9116.09,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 22.16
+    },
+    {
+        "Monto": 1766.61,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 9.87
+    },
+    {
+        "Monto": 2898.95,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 21.18
+    },
+    {
+        "Monto": 3457.6,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 23.41
+    },
+    {
+        "Monto": 786.13,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 19.48
+    },
+    {
+        "Monto": 8827.44,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 19.86
+    },
+    {
+        "Monto": 6015.25,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 9.45
+    },
+    {
+        "Monto": 7373.48,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 22.96
+    },
+    {
+        "Monto": 2874.7,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 20.86
+    },
+    {
+        "Monto": 9644.92,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 21.35
+    },
+    {
+        "Monto": 4444.19,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 21.2
+    },
+    {
+        "Monto": 6428.94,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 23.9
+    },
+    {
+        "Monto": 2587.05,
+        "Frecuencia": 19,
+        "TiempoTransaccion": 14.58
+    },
+    {
+        "Monto": 8645.54,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 19.57
+    },
+    {
+        "Monto": 1901.24,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 14.38
+    },
+    {
+        "Monto": 674.18,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 13.69
+    },
+    {
+        "Monto": 4640.55,
+        "Frecuencia": 23,
+        "TiempoTransaccion": 12.56
+    },
+    {
+        "Monto": 8293.56,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 16.28
+    },
+    {
+        "Monto": 7757.24,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 3.58
+    },
+    {
+        "Monto": 9225.48,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 3.71
+    },
+    {
+        "Monto": 2882.17,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 2.68
+    },
+    {
+        "Monto": 3985.77,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 10.8
+    },
+    {
+        "Monto": 2838.63,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 9.24
+    },
+    {
+        "Monto": 7733.67,
+        "Frecuencia": 17,
+        "TiempoTransaccion": 0.13
+    },
+    {
+        "Monto": 1052.1,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 2.7
+    },
+    {
+        "Monto": 9032.75,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 21.4
+    },
+    {
+        "Monto": 8985.15,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 4.25
+    },
+    {
+        "Monto": 2523.57,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 4.89
+    },
+    {
+        "Monto": 9484.88,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 8.57
+    },
+    {
+        "Monto": 955.29,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 22.47
+    },
+    {
+        "Monto": 8470.52,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 18.21
+    },
+    {
+        "Monto": 2760.12,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 4.86
+    },
+    {
+        "Monto": 4634.66,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 21.89
+    },
+    {
+        "Monto": 6137.07,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 21.28
+    },
+    {
+        "Monto": 9698.16,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 5.4
+    },
+    {
+        "Monto": 1304.29,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 21.44
+    },
+    {
+        "Monto": 6482.34,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 17.07
+    },
+    {
+        "Monto": 1664.75,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 16.85
+    },
+    {
+        "Monto": 7898.61,
+        "Frecuencia": 4,
+        "TiempoTransaccion": 16.84
+    },
+    {
+        "Monto": 5269.66,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 1.07
+    },
+    {
+        "Monto": 372.13,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 7.11
+    },
+    {
+        "Monto": 853.01,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 5.54
+    },
+    {
+        "Monto": 6303.5,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 3.93
+    },
+    {
+        "Monto": 106.49,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 22.93
+    },
+    {
+        "Monto": 3651.62,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 4.32
+    },
+    {
+        "Monto": 1303.44,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 19.3
+    },
+    {
+        "Monto": 5980.7,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 23.51
+    },
+    {
+        "Monto": 4496.97,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 21.44
+    },
+    {
+        "Monto": 1273.37,
+        "Frecuencia": 2,
+        "TiempoTransaccion": 17.18
+    },
+    {
+        "Monto": 9889.98,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 3.96
+    },
+    {
+        "Monto": 8738.63,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 4.54
+    },
+    {
+        "Monto": 9119.96,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 17.39
+    },
+    {
+        "Monto": 8914.85,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 1.29
+    },
+    {
+        "Monto": 3139.59,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 18.41
+    },
+    {
+        "Monto": 2205.57,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 0.51
+    },
+    {
+        "Monto": 6030.2,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 14.83
+    },
+    {
+        "Monto": 6612.64,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 12.68
+    },
+    {
+        "Monto": 4658.63,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 19.54
+    },
+    {
+        "Monto": 7718.99,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 0.7
+    },
+    {
+        "Monto": 9773.97,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 7.69
+    },
+    {
+        "Monto": 8138.66,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 10.46
+    },
+    {
+        "Monto": 7280.97,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 3.33
+    },
+    {
+        "Monto": 46.38,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 14.84
+    },
+    {
+        "Monto": 7046.21,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 12.75
+    },
+    {
+        "Monto": 560.22,
+        "Frecuencia": 26,
+        "TiempoTransaccion": 12.15
+    },
+    {
+        "Monto": 567.2,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 9.53
+    },
+    {
+        "Monto": 9885.67,
+        "Frecuencia": 30,
+        "TiempoTransaccion": 5.61
+    },
+    {
+        "Monto": 2720.39,
+        "Frecuencia": 7,
+        "TiempoTransaccion": 17.7
+    },
+    {
+        "Monto": 9473.19,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 4.66
+    },
+    {
+        "Monto": 4864.87,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 22.07
+    },
+    {
+        "Monto": 4153.48,
+        "Frecuencia": 18,
+        "TiempoTransaccion": 11.43
+    },
+    {
+        "Monto": 7070.88,
+        "Frecuencia": 28,
+        "TiempoTransaccion": 20.77
+    },
+    {
+        "Monto": 1749.12,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 22.97
+    },
+    {
+        "Monto": 6945.39,
+        "Frecuencia": 22,
+        "TiempoTransaccion": 11.57
+    },
+    {
+        "Monto": 7183.83,
+        "Frecuencia": 14,
+        "TiempoTransaccion": 10.53
+    },
+    {
+        "Monto": 6291.33,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 15.1
+    },
+    {
+        "Monto": 2731.92,
+        "Frecuencia": 27,
+        "TiempoTransaccion": 7.92
+    },
+    {
+        "Monto": 3731.25,
+        "Frecuencia": 5,
+        "TiempoTransaccion": 0.01
+    },
+    {
+        "Monto": 2645.24,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 2.43
+    },
+    {
+        "Monto": 186.63,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 20.09
+    },
+    {
+        "Monto": 367.28,
+        "Frecuencia": 1,
+        "TiempoTransaccion": 15.29
+    },
+    {
+        "Monto": 1719.09,
+        "Frecuencia": 24,
+        "TiempoTransaccion": 13.52
+    },
+    {
+        "Monto": 5633.71,
+        "Frecuencia": 16,
+        "TiempoTransaccion": 21.76
+    },
+    {
+        "Monto": 1044.69,
+        "Frecuencia": 8,
+        "TiempoTransaccion": 2.05
+    },
+    {
+        "Monto": 2272.31,
+        "Frecuencia": 9,
+        "TiempoTransaccion": 12.56
+    },
+    {
+        "Monto": 9544.84,
+        "Frecuencia": 25,
+        "TiempoTransaccion": 21.01
+    },
+    {
+        "Monto": 2259.19,
+        "Frecuencia": 6,
+        "TiempoTransaccion": 19.74
+    },
+    {
+        "Monto": 6738.34,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 14.43
+    },
+    {
+        "Monto": 1220.21,
+        "Frecuencia": 12,
+        "TiempoTransaccion": 17.21
+    },
+    {
+        "Monto": 6027.11,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 23.96
+    },
+    {
+        "Monto": 6476.76,
+        "Frecuencia": 15,
+        "TiempoTransaccion": 17.13
+    },
+    {
+        "Monto": 5193.75,
+        "Frecuencia": 3,
+        "TiempoTransaccion": 7.37
+    },
+    {
+        "Monto": 6632.67,
+        "Frecuencia": 20,
+        "TiempoTransaccion": 7.04
+    },
+    {
+        "Monto": 1111.45,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 8.92
+    },
+    {
+        "Monto": 613.11,
+        "Frecuencia": 11,
+        "TiempoTransaccion": 5.89
+    },
+    {
+        "Monto": 7776.19,
+        "Frecuencia": 13,
+        "TiempoTransaccion": 5.0
+    },
+    {
+        "Monto": 7873.43,
+        "Frecuencia": 29,
+        "TiempoTransaccion": 6.64
+    },
+    {
+        "Monto": 1896.22,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 19.63
+    },
+    {
+        "Monto": 5496.78,
+        "Frecuencia": 10,
+        "TiempoTransaccion": 1.15
+    }
+]
